@@ -1,1 +1,1 @@
-    ![EVA Mosquito](./image.png)
+    ![EVA Mosquito](image.png)
