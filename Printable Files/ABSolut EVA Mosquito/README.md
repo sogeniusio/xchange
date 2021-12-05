@@ -50,9 +50,9 @@ sensor_type: ATC Semitec 104GT-2
 
 ## Results
 
-![Results](/images/results1.jpg?thumbnail)
-![Results](/images/results2.jpg?thumbnail)
-![Results](/images/results3.jpg?thumbnail)
-![Results](/images/results4.jpg?thumbnail)
-![Results](/images/results5.jpg?thumbnail)
-![Results](/images/results6.jpg?thumbnail)
+![Results](images/results1.jpg?thumbnail)
+![Results](images/results2.jpg?thumbnail)
+![Results](images/results3.jpg?thumbnail)
+![Results](images/results4.jpg?thumbnail)
+![Results](images/results5.jpg?thumbnail)
+![Results](images/results6.jpg?thumbnail)
